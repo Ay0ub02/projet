@@ -1,4 +1,2 @@
-# projet
-présentation sur git hub
+# Jeu-MonPrenom
 
-## Note pour le projet 
